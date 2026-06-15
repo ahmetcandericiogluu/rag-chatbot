@@ -1,0 +1,7 @@
+# Teslimat
+
+İstanbul içi teslimat süresi genellikle 1-2 iş günüdür.
+
+Diğer şehirler için teslimat süresi genellikle 2-4 iş günüdür.
+
+Kargo süresi ürünün stok durumuna ve teslimat adresine göre değişebilir.

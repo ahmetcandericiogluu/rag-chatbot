@@ -1,0 +1,7 @@
+# Ödeme
+
+Kredi kartı ve banka kartı ile ödeme yapılabilir.
+
+Bazı kampanyalarda taksit seçenekleri değişiklik gösterebilir.
+
+Ödeme sırasında yaşanan sorunlarda kart bilgileri ve banka onayı kontrol edilmelidir.
