@@ -4,28 +4,34 @@
 
 {% block body %}
 <style>
+    html,
     body {
+        height: 100%;
+        margin: 0;
         background: #f4f6f8;
+        overflow: hidden;
     }
 
     .chat-page {
-        min-height: 100vh;
+        height: 100vh;
         display: flex;
         justify-content: center;
-        align-items: center;
-        padding: 32px 16px;
+        align-items: stretch;
+        padding: 20px;
+        box-sizing: border-box;
         font-family: Arial, sans-serif;
     }
 
     .chat-shell {
         width: 100%;
         max-width: 1180px;
-        height: 760px;
+        height: 100%;
+        min-height: 0;
         background: #ffffff;
         border-radius: 18px;
         box-shadow: 0 20px 50px rgba(15, 23, 42, 0.12);
         display: grid;
-        grid-template-columns: minmax(0, 1fr) 320px;
+        grid-template-columns: minmax(0, 1fr) 340px;
         overflow: hidden;
         border: 1px solid #e5e7eb;
     }
@@ -62,6 +68,7 @@
 
     .chat-messages {
         flex: 1;
+        min-height: 0;
         padding: 24px;
         overflow-y: auto;
         background: #f9fafb;
@@ -188,6 +195,7 @@
     }
 
     .chat-footer {
+        flex: 0 0 auto;
         padding: 16px;
         border-top: 1px solid #e5e7eb;
         background: #ffffff;
@@ -254,6 +262,7 @@
         display: flex;
         flex-direction: column;
         min-width: 0;
+        min-height: 0;
     }
 
     .sources-panel {
@@ -261,11 +270,23 @@
         background: #ffffff;
         display: flex;
         flex-direction: column;
+        min-height: 0;
+        overflow: hidden;
     }
 
     .sources-panel-header {
+        flex: 0 0 auto;
         padding: 18px 18px 14px;
         border-bottom: 1px solid #e5e7eb;
+        background: #ffffff;
+    }
+
+    .sources-panel-body {
+        flex: 1;
+        min-height: 0;
+        overflow-y: auto;
+        padding: 16px;
+        background: #f9fafb;
     }
 
     .sources-panel-title {
@@ -279,13 +300,6 @@
         margin-top: 4px;
         font-size: 12px;
         color: #6b7280;
-    }
-
-    .sources-panel-body {
-        flex: 1;
-        overflow-y: auto;
-        padding: 16px;
-        background: #f9fafb;
     }
 
     .sources-empty {
@@ -343,8 +357,12 @@
     }
 
     @media (max-width: 900px) {
+        .chat-page {
+            padding: 10px;
+        }
+
         .chat-shell {
-            height: 90vh;
+            height: 100%;
             border-radius: 12px;
             grid-template-columns: 1fr;
         }

@@ -6,8 +6,8 @@ use App\Dto\RagTextChunk;
 
 final readonly class RagTextChunker
 {
-    private const TARGET_CHARS = 900;
-    private const MAX_CHARS = 1400;
+    private const TARGET_CHARS = 15;
+    private const MAX_CHARS = 50;
 
     /**
      * @return RagTextChunk[]

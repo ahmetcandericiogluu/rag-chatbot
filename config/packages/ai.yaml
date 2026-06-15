@@ -8,6 +8,9 @@ ai:
         
         ollama:
             http_client: 'ollama.client'
+        
+        gemini:
+            api_key: '%env(GEMINI_API_KEY)%'
 
 
     agent:
@@ -15,11 +18,11 @@ ai:
         # see https://symfony.com/doc/current/ai/bundles/ai-bundle.html
 
         default:
-           platform: 'ai.platform.ollama'
-           model: 'qwen2.5:14b'
+           platform: 'ai.platform.gemini'
+           model: 'gemini-2.5-flash-lite'
            prompt: |
-                Sen Türkçe cevap veren yardımcı bir asistansın.
-                Cevapların kısa, net ve anlaşılır olsun.
+                Sen idefix için çalışan Türkçe müşteri destek chatbotusun.
+                Cevapların kısa, net ve sadece Türkçe olsun.
            
         #    platform: 'ai.platform.openai'
         #    model: 'gpt-5-mini'
