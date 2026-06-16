@@ -1,0 +1,13 @@
+# Üyelik ve İşlem Rehberi
+
+idefix’te kullanıcı işlemleri İşlem Rehberi yardım başlığı altında ele alınır.
+
+Kullanıcılar idefix hesabına giriş yapma, yeni üyelik oluşturma, üyelik bilgilerini güncelleme ve üyeliği iptal etme konularında İşlem Rehberi başlığına yönlendirilir.
+
+İptal edilen üyeliğin yeniden aktif hale getirilmesi İşlem Rehberi içinde ayrıca ele alınan bir konudur.
+
+idefix’ten destek alma yolları İşlem Rehberi yardım başlığı altında bulunur.
+
+Nasıl sipariş verileceği İşlem Rehberi başlığı altında ele alınan temel kullanıcı işlemlerinden biridir.
+
+Hesap, üyelik, sipariş verme ve destek alma konuları genel bilgi niteliğindedir. Kullanıcının kişisel sipariş veya üyelik detayları için kimlik doğrulama ve ilgili kullanıcı API’si gerekir.

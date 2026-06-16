@@ -1,0 +1,21 @@
+# Teslimat
+
+idefix’te teslimat süreçleri yardım merkezi altında ayrı bir başlık olarak yer alır.
+
+Teslimat adımında gerekli işlemler, siparişin teslimat adresi ve alıcı adı gibi bilgilerle ilgilidir.
+
+Siparişin teslimat adresini veya alıcı adını değiştirme konusu teslimat yardım başlığı altında değerlendirilir.
+
+Kargo durumu teslim edildi görünmesine rağmen ürün kullanıcıya ulaşmadıysa, bu durum teslimat destek süreci kapsamında değerlendirilmelidir.
+
+Kargo şirketinin kapıya teslim yapmaması teslimat destek başlıkları arasında yer alır.
+
+Sipariş edilen ürün yerine farklı bir ürün gelmesi teslimat ve sipariş destek süreci kapsamında ele alınır.
+
+Siparişin kaç günde teslim edileceği ve teslimat seçenekleri ürün, satıcı, stok durumu, adres ve kargo operasyonuna göre değişebilir.
+
+Siparişin tamamı kullanıcıya ulaşmadıysa eksik teslimat durumu kontrol edilmelidir.
+
+Hasar Tespit Tutanağı, hasarlı teslimat durumlarında kargo ve ürün hasarının kayıt altına alınması için kullanılan önemli bir belgedir.
+
+Kargo firması, kargo ücreti, özel teslimat ve sevkiyat yapılan ülkeler teslimat yardım başlığında ele alınan konulardır.

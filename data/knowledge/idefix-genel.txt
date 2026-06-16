@@ -1,0 +1,15 @@
+# idefix Genel Bilgi
+
+idefix, birçok farklı kategoride ürün sunan bir e-ticaret platformudur.
+
+idefix üzerinde elektronik, telefon, bilgisayar, tablet, moda, ayakkabı, çanta, saat, elektrikli ev aletleri, beyaz eşya, altın ve mücevher, anne-bebek, oyuncak, kozmetik, kişisel bakım, kitap, müzik, kırtasiye, ev ve yaşam, spor, outdoor, süpermarket, pet shop, yapı market, bahçe ve oto gibi farklı kategoriler bulunur.
+
+Kullanıcılar idefix üzerinden ürün arayabilir, sepete ürün ekleyebilir, üyelik hesabına giriş yapabilir, favorilerini görüntüleyebilir ve sipariş takibi yapabilir.
+
+idefix yardım alanında İşlem Rehberi, Teslimat, Sık Sorulan Sorular, Ödeme, İade ve Değişim gibi destek başlıkları bulunur.
+
+idefix çağrı merkezi numarası 0850 266 0606’dır.
+
+idefix çağrı merkezi Pazartesi - Pazar günleri arasında 09:00 - 21:00 saatleri arasında hizmet verir.
+
+Sipariş takibi, kullanıcıya özel işlem gerektiren bir süreçtir. Sipariş durumu gibi kişisel işlem sorularında kullanıcı doğrulaması ve sipariş sistemi/API entegrasyonu gerekir.

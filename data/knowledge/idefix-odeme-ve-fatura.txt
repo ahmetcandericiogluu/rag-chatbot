@@ -1,0 +1,19 @@
+# Ödeme ve Fatura
+
+idefix’te ödeme süreçleri yardım merkezi altında ayrı bir başlık olarak yer alır.
+
+Kullanıcılar ödeme seçenekleri, taksitli ödeme, kapıda ödeme ve havale/EFT gibi konularda Ödeme yardım başlığına yönlendirilir.
+
+Taksitli ödeme seçeneği kampanya, banka, kart tipi, ürün ve kategori koşullarına göre değişebilir.
+
+Kapıda ödeme seçeneğinin olup olmadığı sipariş ve ödeme koşullarına göre kontrol edilmelidir.
+
+Havale veya EFT ile ödeme seçeneği ödeme yardım başlığı altında ele alınan konulardan biridir.
+
+Kurumsal fatura veya bireysel fatura talepleri fatura bilgileriyle ilgilidir.
+
+Faturanın yanlış gelmesi, ürün, unvan veya adres gibi bilgilerin hatalı olması durumunda fatura destek süreci gerekir.
+
+Verilen siparişin fatura bilgilerini değiştirme talebi sipariş durumu ve fatura kesim sürecine göre değişebilir.
+
+Kullanıcı faturalarına ulaşmak istediğinde hesap, sipariş ve fatura ekranlarına yönlendirilmelidir.

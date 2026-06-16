@@ -1,0 +1,21 @@
+# İade ve Değişim
+
+idefix’te iade ve değişim süreçleri yardım merkezi altında ayrı bir başlık olarak yer alır.
+
+Kullanıcılar satın aldıkları ürünler için ürün tesliminden itibaren 14 gün içinde iade süreci başlatabilir.
+
+İade talebi oluşturma, iade talebini iptal etme, iade kargo koduna ulaşma ve iade talebinin durumunu takip etme işlemleri İade ve Değişim yardım başlığı altında ele alınır.
+
+14 günlük iade süresi dolduysa iade talebi konusu ayrıca değerlendirilmelidir.
+
+Ürün değişimi konusu İade ve Değişim yardım başlığı altında ayrı bir destek konusudur.
+
+Kampanyadan yararlanılan siparişlerde iptal veya iade yapılması durumunda kampanya koşulları etkilenebilir.
+
+İptal ve iade sonrasında üye kuponları veya kampanyaların yeniden tanımlanıp tanımlanmayacağı kampanya koşullarına göre değişebilir.
+
+Hasarlı, kırık veya yanlış gelen ürünler için kullanıcı iade ve destek sürecine yönlendirilmelidir.
+
+Cayma hakkının geçerli olmadığı ürünler ayrıca değerlendirilir. Bu tip sorularda ürün türü ve ilgili istisnalar kontrol edilmelidir.
+
+İade edilen ürün bedelinin ne zaman iade edileceği ödeme yöntemi, banka süreci ve iade onay durumuna göre değişebilir.

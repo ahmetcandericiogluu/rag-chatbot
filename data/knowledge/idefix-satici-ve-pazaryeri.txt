@@ -1,0 +1,21 @@
+# idefix Satıcı ve Pazaryeri
+
+idefix pazaryeri yapısıyla satıcıların ürünlerini platform üzerinde müşterilere sunmasına imkan verir.
+
+idefix’te satıcı olmak isteyen firmalar satıcı başvurusu yaparak süreci başlatabilir.
+
+Satıcı başvurusu sonrasında değerlendirme yapılır ve uygun bulunursa satıcı hesabı oluşturulur.
+
+Satıcı hesabı oluşturulduktan sonra satıcı ürünlerini listeleyebilir ve satış yapmaya başlayabilir.
+
+idefix pazaryerinde kayıt olma ve ürün listeleme işlemleri ücretsiz olarak belirtilmiştir.
+
+Satıcılar kullanıcı dostu arayüz üzerinden ürün listeleme, stok takibi ve sipariş yönetimi gibi işlemleri gerçekleştirebilir.
+
+idefix, satıcılar için avantajlı kargo fiyatları ve müşteri hizmetlerine erişim gibi destekler sunduğunu belirtir.
+
+idefix’te satış yapmak markaların daha fazla kullanıcıya ulaşmasına ve satışlarını büyütmesine yardımcı olabilir.
+
+Satıcı olmak isteyenler başvuru sürecinde şirket bilgileri, adres bilgileri, iletişim bilgileri ve doğrulama adımlarını tamamlamalıdır.
+
+Satıcı başvurusu ve satıcı hesabı gibi işlemler kişisel veya kurumsal veri içerdiği için güvenli başvuru ekranları ve yetkili sistemler üzerinden yürütülmelidir.

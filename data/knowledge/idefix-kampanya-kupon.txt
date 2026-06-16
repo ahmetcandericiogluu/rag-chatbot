@@ -1,0 +1,27 @@
+# Kampanya ve Kupon Koşulları
+
+idefix’te kampanya ve kupon koşulları kampanyaya göre değişebilir.
+
+Hoş geldin kupon kampanyası, idefix.com ve idefix uygulaması üzerinden yapılacak alışverişlerde geçerli olacak şekilde tanımlanmıştır.
+
+Kampanyadan her müşteri yalnızca bir kez yararlanabilir.
+
+Ticari amaçlı oluşturulan toplu siparişler kampanya kapsamında kabul edilmeyebilir.
+
+Kampanyalar stoklarla sınırlı olabilir.
+
+Kuponlar başka kupon kampanyalarıyla birleştirilemeyebilir.
+
+Hoş geldin kuponu 1.500 TL ve üzeri alışverişlerde geçerlidir.
+
+Hoş geldin kuponunda maksimum uygulanacak indirim tutarı 150 TL olarak belirtilmiştir.
+
+Kupon kodu kampanyası ilk 10.000 kişi ile sınırlıdır.
+
+Cep telefonu, Altın & Mücevher ve Dijital Ürünler kupon kampanyasına dahil değildir.
+
+İndirimden yararlanmak için kupon kodunun ödeme aşamasında eklenmesi gerekir.
+
+idefix kampanya koşullarını değiştirme hakkını saklı tutar.
+
+Kampanya ve kupon sorularında cevap verirken kampanyanın adı, geçerlilik tarihi ve kategori istisnaları kontrol edilmelidir.
